@@ -4,6 +4,8 @@
 
 Browser shim for Array.prototype.indexOf as seen on [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexof)
 
+This is most likely useful in a project built with [Browserify](http://browserify.org/) where <= IE8 compatibility is required.
+
 ## Installation
 
 `npm install prototype-indexof-shim --save`
