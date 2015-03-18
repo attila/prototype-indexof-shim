@@ -1,0 +1,29 @@
+{
+  "name": "prototype-indexof-shim",
+  "version": "1.0.0",
+  "description": "Browser shim for Array.prototype.indexOf via MDN",
+  "homepage": "https://github.com/attila/prototype-indexof-shim",
+  "author": "Attila Beregszaszi <attila@frontseed.com> (http://frontseed.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/attila/prototype-indexof-shim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/attila/prototype-indexof-shim/issues"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "readmeFilename": "README.md",
+  "keywords": [
+    "polyfill",
+    "shim",
+    "array",
+    "indexof"
+  ],
+  "license": "CC-BY-SA-2.5"
+}
